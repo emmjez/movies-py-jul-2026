@@ -1,0 +1,5 @@
+name : jali
+
+director : vailog
+
+relased : 2029
